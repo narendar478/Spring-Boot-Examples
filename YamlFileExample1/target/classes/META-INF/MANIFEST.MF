@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: YamlFileExample1
+Implementation-Version: 1.0
+Built-By: Narendar Reddy Nalla
+Implementation-Vendor-Id: org.narendar
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/YamlFileExample1
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "my.prod",
+      "type": "com.app.bean.Product",
+      "sourceType": "com.app.bean.Product"
+    }
+  ],
+  "properties": [
+    {
+      "name": "my.prod.cost",
+      "type": "java.lang.Double",
+      "sourceType": "com.app.bean.Product"
+    },
+    {
+      "name": "my.prod.id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.app.bean.Product"
+    },
+    {
+      "name": "my.prod.mo",
+      "type": "com.app.bean.Model",
+      "sourceType": "com.app.bean.Product"
+    },
+    {
+      "name": "my.prod.mods",
+      "type": "java.util.Map<java.lang.String,java.lang.Integer>",
+      "sourceType": "com.app.bean.Product"
+    },
+    {
+      "name": "my.prod.name",
+      "type": "java.lang.String",
+      "sourceType": "com.app.bean.Product"
+    },
+    {
+      "name": "my.prod.versions",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.app.bean.Product"
+    }
+  ],
+  "hints": []
+}

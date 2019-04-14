@@ -1,0 +1,7 @@
+my:
+  prf:
+    id: 10
+    spring:
+      profiles:
+        active: prod
+    
